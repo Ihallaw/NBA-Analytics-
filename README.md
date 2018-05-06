@@ -1,2 +1,6 @@
 # NBA-Analytics-
-An attempt at analyzing NBA player statistics using Python. 
+NBA Analytic web application designed in Flask. Focuses will be on:
+Statistical Analysis
+Clean Presentation of data
+Visualization of data
+
